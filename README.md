@@ -73,6 +73,8 @@ For Web:
 bash
 Copy code
 flutter run -d chrome
+
+
 💡 Requirements
 Flutter SDK (latest stable version)
 
