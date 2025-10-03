@@ -53,7 +53,7 @@ This project was developed as part of the **NASA Space Apps Hackathon** challeng
    cd Will-it-rain-on-my-parade-Khaliha-3ala-Allah-
 Install dependencies
 
-bash
+```bash
 Copy code
 flutter pub get
 Run the app
