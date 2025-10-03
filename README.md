@@ -44,3 +44,40 @@ Using weather data and forecasts, the app provides probabilities of rain and wea
 ## 👩‍🚀 Team
 This project was developed as part of the **NASA Space Apps Hackathon** challenge.  
 > *Let’s see if it rains on our parade!* 🌍✨
+
+## ▶️ How to Run the Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Roqaia2005/Will-it-rain-on-my-parade-Khaliha-3ala-Allah-.git
+   cd Will-it-rain-on-my-parade-Khaliha-3ala-Allah-
+Install dependencies
+
+bash
+Copy code
+flutter pub get
+Run the app
+
+For Android:
+
+bash
+Copy code
+flutter run
+For iOS (on macOS):
+
+bash
+Copy code
+flutter run
+For Web:
+
+bash
+Copy code
+flutter run -d chrome
+💡 Requirements
+Flutter SDK (latest stable version)
+
+Android Studio / Xcode / VS Code with Flutter plugin
+
+Git installed on your machine
+
+Run Backend Server
