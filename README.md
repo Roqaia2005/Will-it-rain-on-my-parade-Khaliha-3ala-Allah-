@@ -54,25 +54,10 @@ This project was developed as part of the **NASA Space Apps Hackathon** challeng
 Install dependencies
 
 ```bash
-Copy code
+
 flutter pub get
 Run the app
-
-For Android:
-
-bash
-Copy code
 flutter run
-For iOS (on macOS):
-
-bash
-Copy code
-flutter run
-For Web:
-
-bash
-Copy code
-flutter run -d chrome
 
 
 💡 Requirements
